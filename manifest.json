@@ -1,0 +1,18 @@
+{
+    "name": "IISc Moodle Downloader",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Download videos from moodle platform for later use. A download button will appear automatically above the video player on the page.",
+    "action": {
+        "default_popup": "app/index.html"
+    },
+    "content_scripts": [
+        {
+            "js": ["app/auto_apply.js"],
+            "matches": ["https://course.iisc.ac.in/*"]
+        }       
+    ],
+    "permissions": [
+        "activeTab"
+    ]
+}
