@@ -7,7 +7,7 @@ The aim of this project is to downlod course video on demand. This does not conn
 
 1. Open Chrome / Edge browser extensions page
 2. **Enable developer mode**
-3. Use the options provided to **load this folder**.
+3. Use the options provided to **load this folder** or **Load Unpacked**.
 4. Once **installed**, ensure extension is enabled for usage.
 
 ## How to use?
