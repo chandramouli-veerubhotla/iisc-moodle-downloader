@@ -10,6 +10,8 @@ The aim of this project is to downlod course video on demand. This does not conn
 3. Use the options provided to **load this folder** or **Load Unpacked**.
 4. Once **installed**, ensure extension is enabled for usage.
 
+***Note*** If download button is not visible, please refresh the page in Moodle platform of IISc.
+
 ## How to use?
 
 Open your IISc moodle page and navigate to required content page (video). A **download button** will automatically appears on top left corner of the video stating **Download**. If you need this video to be downloaded, click on that button to get the video downloaded.
